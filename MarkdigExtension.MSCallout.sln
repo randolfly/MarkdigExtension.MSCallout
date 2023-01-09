@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdigExtension.MSCallout", "MarkdigExtension.MSCallout\MarkdigExtension.MSCallout.csproj", "{091A3B3A-34D8-43D6-98BF-F5701FE7CE3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdigExtension.MSCallout.Test", "MarkdigExtension.MSCallout.Test\MarkdigExtension.MSCallout.Test.csproj", "{F34DE5D3-BB21-4CB9-B400-0A7F7F460120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{091A3B3A-34D8-43D6-98BF-F5701FE7CE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091A3B3A-34D8-43D6-98BF-F5701FE7CE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091A3B3A-34D8-43D6-98BF-F5701FE7CE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091A3B3A-34D8-43D6-98BF-F5701FE7CE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F34DE5D3-BB21-4CB9-B400-0A7F7F460120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34DE5D3-BB21-4CB9-B400-0A7F7F460120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34DE5D3-BB21-4CB9-B400-0A7F7F460120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34DE5D3-BB21-4CB9-B400-0A7F7F460120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
